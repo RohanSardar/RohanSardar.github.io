@@ -7,13 +7,15 @@ collection: portfolio
 🔗 **Deployed Link:** [CyberGuard](https://huggingface.co/spaces/RohanSardar/CyberGuard)
 
 ## Tech Stack  
-- Python  
-- PyTorch  
-- Hugging Face Transformers  
-- BertForSequenceClassification  
-- BertTokenizerFast  
-- Pandas  
-- Gradio 
+- Python
+- Gradio
+- PyTorch
+- Scikit-Learn
+- Transformers
+- Accelerate
+- NLTK
+- NumPy
+- Pandas 
 
 ## Features
 
