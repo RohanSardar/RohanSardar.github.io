@@ -8,24 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
-## 🎓 Education
+# 🎓 Education
 
 **Techno India University, Kolkata**  
 *Bachelor of Technology in Computer Science Engineering (Specialization in AI and ML)* , **2027**  
-- SGPA: 9.05  
-- CGPA: 8.69
 
 **Future Campus School, Kolkata**  
 *Science Stream (Class XII)*, **2023**  
-- Grade: 83.6%
 
 **Future Campus School, Kolkata**  
 *Science Stream (Class X)*, **2021**  
-- Grade: 90.8%
 
----
-
-## 💻 Skills
+# 💻 Skills
 
 ### 🧠 Programming Languages
 - Python  
@@ -53,7 +47,7 @@ redirect_from:
 - Operating Systems: Linux, Windows  
 - Cloud Platforms: GCP (Google Cloud Platform), AWS (Amazon Web Services)
 
-## 📜 Certifications
+# 📜 Certifications
 
 - [Oracle Cloud Infrastructure 2024 Generative AI Certified Professional – Oracle](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D9B2CA779E2BBE07DB2CBACE34A488391B81999325D0B74A0BFFF52BCE5F6842) 
 - [AWS Machine Learning Fundamentals – Udacity](https://www.udacity.com/certificate/e/c6eca7de-f6c0-11ee-9e7c-5f76ebd011f3)
