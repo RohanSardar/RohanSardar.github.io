@@ -7,21 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
 
 - 🎓 I'm a pre-final year student at **Techno India University, Kolkata**.
 - 🧑‍💻 Currently learning and practicing:
-  - **Data Science (DS)**
-  - **Large Language Models (LLMs)**
-  - **Natural Language Processing (NLP)**
-  - **Reinforcement Learning (RL)**
-  - **Computer Vision (CV)**
+  - Data Science (DS)
+  - Large Language Models (LLMs)
+  - Natural Language Processing (NLP)
+  - Reinforcement Learning (RL)
+  - Computer Vision (CV)
 
 ## 💡 Hobbies & Interests
 
 - 🤖 I enjoy building DIY projects using:
   - Raspberry Pi
-  - ESP boards (ESP8266, ESP32)
+  - ESP boards
   - Arduino
   - Sensors, cameras, and other embedded tech
 - 🔧 Tinkering and prototyping are my favorite ways to learn.
