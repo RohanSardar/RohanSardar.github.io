@@ -1,6 +1,6 @@
 ---
 title: "CyberGuard"
-excerpt: " It detects 11 Bengali vowels taking handwritten figures through live sketchpad as input and predicts accordingly."
+excerpt: "A fine-tuned BERT model that categorizes cybercrime complaints based on the victim, type of fraud, and other relevant parameters."
 collection: portfolio
 ---
 
