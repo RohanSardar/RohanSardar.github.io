@@ -8,57 +8,56 @@ redirect_from:
 ---
 
 {% include base_path %}
+## 🎓 Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Techno India University, Kolkata**  
+*Bachelor of Technology in Computer Science Engineering (Specialization in AI and ML)* , **2027**  
+- SGPA: 9.05  
+- CGPA: 8.69
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Future Campus School, Kolkata**  
+*Science Stream (Class XII)*, **2023**  
+- Grade: 83.6%
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Future Campus School, Kolkata**  
+*Science Stream (Class X)*, **2021**  
+- Grade: 90.8%
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 💻 Skills
+
+### 🧠 Programming Languages
+- Python  
+- C / C++  
+- SQL  
+- R Programming  
+
+### 🧰 Frameworks & Libraries
+- C++ STL  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Scikit-Learn, TensorFlow, PyTorch, JAX  
+- Streamlit, Gradio  
+- NLTK, GENSIM  
+- LangChain, LangGraph  
+- RAG (Retrieval-Augmented Generation)  
+- Hugging Face Transformers  
+- Gymnasium  
+- AutoGluon, XGBoost, CatBoost, LightGBM  
+
+### ⚙️ Tools & Platforms
+- MySQL, Git, Firebase  
+- FastAPI, Docker  
+- Google ADK  
+- Kaggle (Notebooks, Competitions)  
+- Operating Systems: Linux, Windows  
+- Cloud Platforms: GCP (Google Cloud Platform), AWS (Amazon Web Services)
+
+## 📜 Certifications
+
+- [Oracle Cloud Infrastructure 2024 Generative AI Certified Professional – Oracle](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D9B2CA779E2BBE07DB2CBACE34A488391B81999325D0B74A0BFFF52BCE5F6842) 
+- [AWS Machine Learning Fundamentals – Udacity](https://www.udacity.com/certificate/e/c6eca7de-f6c0-11ee-9e7c-5f76ebd011f3)
+- [Microsoft Certified: Azure AI Fundamentals – Microsoft](https://learn.microsoft.com/en-us/users/rohansardar/credentials/65f44715f148a0dc)
+- [Multi-Backend Deep Learning with Keras – Udacity](https://www.udacity.com/certificate/e/325dc0b0-d4bc-11ee-9a26-97000cddd5a9)  
+- [Cloud Digital Leader – Google](https://www.credly.com/badges/8ae817dd-59e4-4fab-9c8e-123e4d7e0461/public_url)
+
