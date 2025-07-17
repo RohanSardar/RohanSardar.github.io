@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/home_page_pic.jpeg" alt="pic" align="right" width="300px">
+[<img src="/images/home_page_pic.jpeg" alt="pic" align="right" width="300px">]: #
 
 - 🎓 I'm a pre-final year student at **Techno India University, Kolkata**.
 - 🧑‍💻 Currently learning and practicing:
