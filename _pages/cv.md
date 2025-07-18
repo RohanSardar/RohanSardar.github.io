@@ -17,7 +17,7 @@ redirect_from:
 *Science Stream (Class XII)*, **2023**  
 
 **Future Campus School, Kolkata**  
-*Science Stream (Class X)*, **2021**  
+*(Class X)*, **2021**  
 
 # 💻 Skills
 
@@ -55,3 +55,6 @@ redirect_from:
 - [Multi-Backend Deep Learning with Keras – Udacity](https://www.udacity.com/certificate/e/325dc0b0-d4bc-11ee-9a26-97000cddd5a9)  
 - [Cloud Digital Leader – Google](https://www.credly.com/badges/8ae817dd-59e4-4fab-9c8e-123e4d7e0461/public_url)
 
+# 📄 Resume
+
+[Resume PDF Link](https://docs.google.com/document/d/1umiO0pSWQVH3vQxMdsD5aeAP_EtwC1HVNk2NCATp--A/edit?usp=sharing)
