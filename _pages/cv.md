@@ -27,22 +27,22 @@ redirect_from:
 - SQL  
 - R Programming  
 
-### 🧰 Frameworks & Libraries
-- C++ STL  
+### 🧰 Frameworks & Libraries 
 - NumPy, Pandas, Matplotlib, Seaborn  
 - Scikit-Learn, TensorFlow, PyTorch, JAX  
 - Streamlit, Gradio  
-- NLTK, GENSIM  
+- NLTK, Gensim  
 - LangChain, LangGraph  
 - RAG (Retrieval-Augmented Generation)  
 - Hugging Face Transformers  
 - Gymnasium  
-- AutoGluon, XGBoost, CatBoost, LightGBM  
+- AutoGluon, XGBoost, CatBoost, LightGBM
+- OpenCV, YOLO
 
 ### ⚙️ Tools & Platforms
-- MySQL, Git, Firebase  
+- MySQL, Git
 - FastAPI, Docker  
-- Google ADK  
+- Google ADK 
 - Kaggle (Notebooks, Competitions)  
 - Operating Systems: Linux, Windows  
 - Cloud Platforms: GCP (Google Cloud Platform), AWS (Amazon Web Services)
